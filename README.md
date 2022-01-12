@@ -173,6 +173,8 @@ A set of small tools, DCC addons, python library... to complete or add feature o
  across 3D application like Blender <> 3DS Max <> Maya <> ... <> and more.
 * [UE4 Env. project](https://github.com/UE4-OceanProject/Environment-Project) - An Environment Simulation project for
  Unreal Engine 4.
+ * [Open Virtual Film Project](https://www.openvirtualfilmproject.com/downloads) - A suite of tools for Unreal Engine,
+blender, maya and rhino that provides vfx/film pipeline support and useful tools for scouting, layout, naming conventions etc. [reddit](https://www.reddit.com/r/OpenVirtualFilm/) [youtube](https://www.youtube.com/channel/UCgoRQJcTxzqW9ID9onbNsFA)
  
 ## Libraries
 
@@ -427,6 +429,7 @@ Not really efficient, you can find more links on the sys admin awesome list ; [o
 * [Pipeline Patterns](http://www.pipelinepatterns.com/)
 * [Unit Testing in Maya](http://www.chadvernon.com/blog/maya/unit-testing-in-maya/)
 * [VFX good night reading](https://github.com/jtomori/vfx_good_night_reading/) - Curated collection of good reading about VFX and CG
+* [Open Virtual Film Project First UE Series](https://youtube.com/playlist?list=PLVCFA0tGjAXPYcEJet7bOzGV-VOJmR0Ku)
 
 ## Free music for showreel
 
